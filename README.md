@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Arham 👋
 
-### AI Software Engineer | Full Stack Developer 
+### Software Engineer | Full Stack Developer 
 
 I'm Arham a Software Engineer based in Pakistan.
 
