@@ -4,21 +4,10 @@
 
 I'm Arham a Software Engineer based in Pakistan.
 
-## 🚀 What I Do
+## Stach
 
-* Develop responsive and scalable web applications
-* Build full-stack solutions using modern technologies
-* Explore Artificial Intelligence, Machine Learning, and Large Language Models (LLMs)
-
-## 💻 Tech Stack
-
-### Languages
-
-* JavaScript
-* Python
-* C++
-* SQL
-
+Python JavaScript C++ SQL — React.js Node.js Flask MongoDB — TensorFlow PyTorch — Figma Git
+ 
 ## 📌 Featured Projects
 
 ### Visual Assessment of Diabetic Retinopathy (FYP)
