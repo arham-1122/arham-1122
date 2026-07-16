@@ -4,7 +4,7 @@
 
 I'm Arham a Software Engineer based in Pakistan.
 
-## Stach
+## Stack
 
 Python JavaScript C++ SQL — React.js Node.js Flask MongoDB — TensorFlow PyTorch — Figma Git
  
