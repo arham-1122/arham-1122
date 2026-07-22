@@ -18,7 +18,3 @@ AI-powered healthcare platform designed to assist in diabetic retinopathy assess
 
 * LinkedIn: https://www.linkedin.com/in/muhammad-arham004
 * Email: arhamuhammad004@gmail.com
-
-
-*"Building technology that creates real-world impact through software and AI."*
-
