@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Arham 
 
-### Software Engineer | Full Stack Developer 
+### Software Developer| MERN | AI Web Applications 
 
 I'm Arham a Software Engineer based in Pakistan. I build Full Stack Web Apps. Currently learning LLM and RAG Integration.
 
