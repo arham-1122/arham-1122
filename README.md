@@ -2,7 +2,7 @@
 
 ### Software Developer| MERN | AI Web Applications 
 
-I'm Arham a Software Engineer based in Pakistan. I build AI-Powered Web Apps. Currently learning LLM and RAG Integration.
+I'm Arham a Software Engineer based in Pakistan. I build AI-Powered Web Apps. Currently learning LLM and RAG Integration
 
 ## Stack
 
