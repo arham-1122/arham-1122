@@ -10,9 +10,10 @@ Python JavaScript C++ — React.js Node.js Flask MongoDB — Figma Git
  
 ## 📌 Featured Projects
 
-### Visual Assessment of Diabetic Retinopathy (FYP)
+### Visual Assessment of Diabetic Retinopathy (FYP) 
 
 AI-powered healthcare platform designed to assist in diabetic retinopathy assessment through medical image analysis model, patient management, and clinical workflow optimization using Python, Flask, ResNet-50, APTOS 2019 Dataset 
+Link : https://github.com/Sherr31/Visual-Assessment-of-Diabetic-Retinopathy
 
 ## 📫 Let's Connect
 
